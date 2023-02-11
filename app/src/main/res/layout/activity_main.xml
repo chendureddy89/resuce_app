@@ -68,7 +68,6 @@
         android:backgroundTint="#CF4E45"
         android:text="Login"
         android:onClick="opendummyhome"
-
         android:textColor="@color/white"
         android:layout_centerHorizontal="true"
         android:layout_margin="20dp" />
